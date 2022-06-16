@@ -2,6 +2,7 @@ public class Programmer {
     String name;
     String company;
     String position;
+    String position1;
 
     public Programmer(String name, String company) {
         this.name = name;
